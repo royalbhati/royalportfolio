@@ -1,8 +1,8 @@
 {
-  "name": "resume",
+  "name": "royalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://royalbhati.github.io/",
+  "homepage": "https://royalbhati.github.io/royalportfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.0",
