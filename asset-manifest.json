@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.647cc650.chunk.css",
-  "main.js": "/static/js/main.70fd8c90.chunk.js",
-  "main.js.map": "/static/js/main.70fd8c90.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.647cc650.chunk.css.map": "/static/css/main.647cc650.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.be42516f3a87baf036d8fb667a6d8098.js": "/precache-manifest.be42516f3a87baf036d8fb667a6d8098.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/royalportfolio/static/css/main.7f486725.chunk.css",
+  "main.js": "/royalportfolio/static/js/main.e8cecf6d.chunk.js",
+  "main.js.map": "/royalportfolio/static/js/main.e8cecf6d.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/royalportfolio/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/royalportfolio/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/royalportfolio/static/js/runtime~main.7c6cca8a.js",
+  "runtime~main.js.map": "/royalportfolio/static/js/runtime~main.7c6cca8a.js.map",
+  "static/css/main.7f486725.chunk.css.map": "/royalportfolio/static/css/main.7f486725.chunk.css.map",
+  "index.html": "/royalportfolio/index.html",
+  "precache-manifest.a04587fd46f98b3e6b8c07ee93882a7e.js": "/royalportfolio/precache-manifest.a04587fd46f98b3e6b8c07ee93882a7e.js",
+  "service-worker.js": "/royalportfolio/service-worker.js"
 }
